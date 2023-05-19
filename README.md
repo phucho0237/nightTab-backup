@@ -1,6 +1,5 @@
 # nightTab-backup
 
-- My nightTab config file
+![image](https://github.com/phucho0237/nightTab-backup/assets/88989555/d0519ba2-168a-49b3-8d75-a8141dd3600d)
 
-![image](https://user-images.githubusercontent.com/88989555/234999040-bb5f3239-6527-4872-9fe6-ff231a7fb9a3.png)
 
